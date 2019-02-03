@@ -1,0 +1,4 @@
+*.out
+m.c
+.vscode/setting*
+libft.a
